@@ -13,4 +13,3 @@ This landing page project is submitted to [Udacity](https://www.udacity.com/ "Ud
 
 * [MDN Web Docs](https://developer.mozilla.org/ "MDN Web Docs")
 * [w3schools](https://www.w3schools.com/ "w3schools")
-* [CSS Tricks](https://css-tricks.com/ "CSS Tricks")
